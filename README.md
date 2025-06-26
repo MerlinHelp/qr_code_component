@@ -49,7 +49,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     .outfit-p {
         font-size: calc(5vw - 0.5vh);
     }
-}```
+}
+```
 
 ### Useful resources
 

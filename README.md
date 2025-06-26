@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 2048 x 1152 Device Screenshot
 
-![](./images/2048-1152SS.png)
+![](./images/2048x1152SS.png)
 
 
 ### Links

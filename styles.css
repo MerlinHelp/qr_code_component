@@ -47,7 +47,7 @@ main {
 }
 
 .outfit-p {
-    margin-bottom: 2vh;
+    margin: 0 1vw 2vh;
     color: hsl(216, 15%, 48%);
     max-width: 100%;
     font-size: calc(0.85vw - 0.1vh);
